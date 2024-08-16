@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/bisht_pratham02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bisht_pratham02" height="30" width="40" /></a>
 <a href="officialbishtpratham@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00rWvTaZyacHSYb5nTqZDAkIDbdA_VWiKclnNVpAOydaDUXIiT_oCU499CfJfa3fADWQ" alt="officialbishtpratham@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratham-bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-bisht" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratham-bisht-488559200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-bisht" height="30" width="40" /></a>
 <a href="https://instagram.com/prathambisht_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathambisht_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prathambisht_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathambisht_" height="30" width="40" /></a>
 </p>
